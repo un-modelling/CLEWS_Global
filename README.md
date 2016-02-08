@@ -1,4 +1,4 @@
-# Global_CLEWS
+# Global CLEWS
 Climate, Land, Energy and Water systems: a Global Model
 
 The Global CLEWS model provides useful insights about the relationships among water, energy, land use and climate at the global scale. 
@@ -21,3 +21,4 @@ section on the Global CLEWS model.
 The file Results_GlobalCLEWS.xls contains the results of the model in terms of CO2 emissions, water use, and energy supply shown in the online visualization tool.
 
 To get the latest version of the model and for more information please visit the website of OSeMOSYS: http://www.osemosys.org/
+
